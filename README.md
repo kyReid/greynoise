@@ -46,3 +46,4 @@ Kyle Reid
 ## Acknowledgments
 
 [Greynoise](https://docs.greynoise.io/docs/libraries-sample-code)
+[Pipenv](https://pipenv-fork.readthedocs.io/en/latest/basics.html)
